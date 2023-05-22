@@ -1,6 +1,6 @@
 import os
 
-pasta = r"C:\Users\valdir.junior\Desktop\IMAGENS ATUALIZADAS"
+pasta = r"C:\*****\Desktop\*****"
 
 for _ in range(2):
     arquivos = os.listdir(pasta)
